@@ -1,0 +1,2766 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Business",
+  "last_updated": "2020-09-30T01:32:58-04:00",
+  "num_results": 34,
+  "results": [
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Disney Lays Off 28,000, Mostly at Its 2 U.S. Theme Parks",
+      "abstract": "The company said it would eliminate thousands of jobs at its resorts in Florida and California, which have been hit hard by the pandemic.",
+      "url": "https://www.nytimes.com/2020/09/29/business/disney-theme-park-workers-layoffs.html",
+      "uri": "nyt://article/db7b7323-5863-5770-9436-6bfd88e21ef4",
+      "byline": "By Brooks Barnes",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T00:31:50-04:00",
+      "created_date": "2020-09-29T18:11:16-04:00",
+      "published_date": "2020-09-29T18:11:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Layoffs and Job Reductions",
+        "Amusement and Theme Parks",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Walt Disney Company",
+        "Disney, Walt, World (Lake Buena Vista, Fla)",
+        "Disneyland (Anaheim, Calif)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Orlando (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Walt Disney World in Florida reopened in July but attendance has been weaker than the company anticipated.",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/25virus-disneyparks-3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Walt Disney World in Florida reopened in July but attendance has been weaker than the company anticipated.",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/25virus-disneyparks-3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Walt Disney World in Florida reopened in July but attendance has been weaker than the company anticipated.",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Walt Disney World in Florida reopened in July but attendance has been weaker than the company anticipated.",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Walt Disney World in Florida reopened in July but attendance has been weaker than the company anticipated.",
+          "copyright": "Eve Edelheit for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jrwSiw"
+    },
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "Seattle Passes Minimum Pay Rate for Uber and Lyft Drivers",
+      "abstract": "The city became the second in the nation to create a compensation standard for ride-hailing drivers, after New York.",
+      "url": "https://www.nytimes.com/2020/09/29/business/economy/seattle-uber-lyft-drivers.html",
+      "uri": "nyt://article/1d75526f-3a1f-58cf-8a16-c1a5d41092a8",
+      "byline": "By Noam Scheiber",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T00:34:13-04:00",
+      "created_date": "2020-09-29T19:14:00-04:00",
+      "published_date": "2020-09-29T19:14:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Car Services and Livery Cabs",
+        "Wages and Salaries",
+        "Minimum Wage",
+        "Freelancing, Self-Employment and Independent Contracting",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "Lyft Inc",
+        "Uber Technologies Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Seattle (Wash)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29UBERWAGE-01/29UBERWAGE-01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle\u2019s pay standard for Uber and Lyft drivers is part of a wave of attempts by cities and states to regulate gig-economy transportation services.",
+          "copyright": "Amr Alfiky/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29UBERWAGE-01/29UBERWAGE-01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle\u2019s pay standard for Uber and Lyft drivers is part of a wave of attempts by cities and states to regulate gig-economy transportation services.",
+          "copyright": "Amr Alfiky/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29UBERWAGE-01/29UBERWAGE-01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle\u2019s pay standard for Uber and Lyft drivers is part of a wave of attempts by cities and states to regulate gig-economy transportation services.",
+          "copyright": "Amr Alfiky/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29UBERWAGE-01/29UBERWAGE-01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle\u2019s pay standard for Uber and Lyft drivers is part of a wave of attempts by cities and states to regulate gig-economy transportation services.",
+          "copyright": "Amr Alfiky/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29UBERWAGE-01/29UBERWAGE-01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle\u2019s pay standard for Uber and Lyft drivers is part of a wave of attempts by cities and states to regulate gig-economy transportation services.",
+          "copyright": "Amr Alfiky/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HIDGKU"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tell Us: How Is the Pandemic Affecting Youth Employment in Europe?",
+      "abstract": "The New York Times would like to hear from young people across Europe who are unemployed, searching for work, or concerned for their job prospects because of Covid-19.",
+      "url": "https://www.nytimes.com/2020/09/25/business/youth-unemployment-europe-coronavirus.html",
+      "uri": "nyt://article/1e7fd2da-cefc-5c1f-94b3-1a2a692a6df4",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2020-09-25T11:32:37-04:00",
+      "created_date": "2020-09-25T11:32:37-04:00",
+      "published_date": "2020-09-25T11:32:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Unemployment",
+        "Labor and Jobs",
+        "Layoffs and Job Reductions",
+        "Youth"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Europe"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00eu-youthunemployment/00eu-youthunemployment-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Youth unemployment surpassed 17 percent in much of Europe last summer, and is expected to get worse.\u00a0",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00eu-youthunemployment/00eu-youthunemployment-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Youth unemployment surpassed 17 percent in much of Europe last summer, and is expected to get worse.\u00a0",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00eu-youthunemployment/00eu-youthunemployment-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Youth unemployment surpassed 17 percent in much of Europe last summer, and is expected to get worse.\u00a0",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00eu-youthunemployment/00eu-youthunemployment-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Youth unemployment surpassed 17 percent in much of Europe last summer, and is expected to get worse.\u00a0",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00eu-youthunemployment/00eu-youthunemployment-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Youth unemployment surpassed 17 percent in much of Europe last summer, and is expected to get worse.\u00a0",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3i2Lfsq"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Chris Wallace Struggled to Rein In an Unruly Trump at First Debate",
+      "abstract": "In his second time moderating a presidential debate, the Fox News anchor attempted to reset the proceedings midway through.",
+      "url": "https://www.nytimes.com/2020/09/29/us/politics/chris-wallace-debate.html",
+      "uri": "nyt://article/c39db018-d735-57ad-bff3-5117b85ebcce",
+      "byline": "By Michael M. Grynbaum",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T02:00:09-04:00",
+      "created_date": "2020-09-29T22:23:43-04:00",
+      "published_date": "2020-09-29T22:23:43-04:00",
+      "material_type_facet": "",
+      "kicker": "The MODERATOR",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Debates (Political)",
+        "News and News Media",
+        "Fox News Sunday (TV Program)"
+      ],
+      "org_facet": [
+        "Fox News Channel"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Wallace, Chris (1947- )",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29wallace/29wallace-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace faced harsh reviews on social media as the debate on Tuesday night grew unruly through repeated interruptions by President Trump.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29wallace/29wallace-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace faced harsh reviews on social media as the debate on Tuesday night grew unruly through repeated interruptions by President Trump.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29wallace/29wallace-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace faced harsh reviews on social media as the debate on Tuesday night grew unruly through repeated interruptions by President Trump.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29wallace/29wallace-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace faced harsh reviews on social media as the debate on Tuesday night grew unruly through repeated interruptions by President Trump.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29wallace/29wallace-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace faced harsh reviews on social media as the debate on Tuesday night grew unruly through repeated interruptions by President Trump.",
+          "copyright": "Ruth Fremson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HInKIB"
+    },
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "Pandemic Imperils Promotions for Women in Academia",
+      "abstract": "Even as faculty members are given more time to meet a deadline for tenure, many say they are getting less work done because of child care needs.",
+      "url": "https://www.nytimes.com/2020/09/29/business/economy/pandemic-women-tenure.html",
+      "uri": "nyt://article/6f84d425-68f5-5cda-adf6-113a10e23ff9",
+      "byline": "By Noam Scheiber",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T18:54:37-04:00",
+      "created_date": "2020-09-29T11:04:33-04:00",
+      "published_date": "2020-09-29T11:04:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Colleges and Universities",
+        "Tenure",
+        "Women and Girls",
+        "Labor and Jobs",
+        "Coronavirus (2019-nCoV)",
+        "Parenting",
+        "Hiring and Promotion"
+      ],
+      "org_facet": [
+        "Northwestern University"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00virus-tenure-5/00virus-tenure-5-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Marion Suiseeya says the extra time that Northwestern gave professors like her to meet tenure requirements has been more than offset by the needs of her daughter.",
+          "copyright": "Olivia Obineme for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00virus-tenure-5/00virus-tenure-5-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Marion Suiseeya says the extra time that Northwestern gave professors like her to meet tenure requirements has been more than offset by the needs of her daughter.",
+          "copyright": "Olivia Obineme for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00virus-tenure-5/00virus-tenure-5-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Marion Suiseeya says the extra time that Northwestern gave professors like her to meet tenure requirements has been more than offset by the needs of her daughter.",
+          "copyright": "Olivia Obineme for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00virus-tenure-5/00virus-tenure-5-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Marion Suiseeya says the extra time that Northwestern gave professors like her to meet tenure requirements has been more than offset by the needs of her daughter.",
+          "copyright": "Olivia Obineme for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00virus-tenure-5/00virus-tenure-5-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Marion Suiseeya says the extra time that Northwestern gave professors like her to meet tenure requirements has been more than offset by the needs of her daughter.",
+          "copyright": "Olivia Obineme for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33cNODW"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Prosecutors Target Ex-Audi Chief in First VW Emissions Trial",
+      "abstract": "Rupert Stadler is accused of continuing to sell cars with illegal software even after Volkswagen\u2019s cheating scandal came to light.",
+      "url": "https://www.nytimes.com/2020/09/29/business/Volkswagen-Audi-rupert-stadler-diesel.html",
+      "uri": "nyt://article/16ed6b19-d0b9-5b2f-9440-fa0f64fdd9cc",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T00:31:07-04:00",
+      "created_date": "2020-09-29T00:01:08-04:00",
+      "published_date": "2020-09-29T00:01:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fuel Emissions (Transportation)",
+        "Automobiles",
+        "Frauds and Swindling",
+        "Diesel Power",
+        "Engines"
+      ],
+      "org_facet": [
+        "Audi Division of Volkswagen AG",
+        "Volkswagen AG"
+      ],
+      "per_facet": [
+        "Hatz, Wolfgang",
+        "Liang, James",
+        "Pamio, Zaccheo Giovanni",
+        "Schmidt, Oliver",
+        "Stadler, Rupert (1963- )",
+        "Winterkorn, Martin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/merlin_135522486_abb33f89-2ef5-4bc7-9a8d-b7be2efcdb7a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/merlin_135522486_abb33f89-2ef5-4bc7-9a8d-b7be2efcdb7a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3icW9M3"
+    },
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "Trump, Biden and \u2018Made in U.S.A.\u2019: Same Refrain, Varying Notes",
+      "abstract": "Joe Biden\u2019s economic proposals show how the president has shifted the playing field toward protectionism. But there may be fewer jobs to lose, or regain.",
+      "url": "https://www.nytimes.com/2020/09/28/business/economy/biden-trump-made-in-usa.html",
+      "uri": "nyt://article/e180f791-f7cf-55e9-9b0d-51ecbba885b5",
+      "byline": "By Eduardo Porter",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T17:41:03-04:00",
+      "created_date": "2020-09-28T14:02:31-04:00",
+      "published_date": "2020-09-28T14:02:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Economy",
+        "International Trade and World Market",
+        "Presidential Election of 2020",
+        "Protectionism (Trade)",
+        "Customs (Tariff)",
+        "Outsourcing"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "China",
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28madeinusa/merlin_175666128_8e051af6-372b-47cc-88f9-7db0905636df-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The shuttered Scranton Lace Company in former Vice President Joseph R. Biden Jr.\u2019s Pennsylvania birthplace is a symbol of the long-term decline of U.S. factory work.",
+          "copyright": "Eric Baradat/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28madeinusa/merlin_175666128_8e051af6-372b-47cc-88f9-7db0905636df-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The shuttered Scranton Lace Company in former Vice President Joseph R. Biden Jr.\u2019s Pennsylvania birthplace is a symbol of the long-term decline of U.S. factory work.",
+          "copyright": "Eric Baradat/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28madeinusa/merlin_175666128_8e051af6-372b-47cc-88f9-7db0905636df-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The shuttered Scranton Lace Company in former Vice President Joseph R. Biden Jr.\u2019s Pennsylvania birthplace is a symbol of the long-term decline of U.S. factory work.",
+          "copyright": "Eric Baradat/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28madeinusa/28madeinusa-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The shuttered Scranton Lace Company in former Vice President Joseph R. Biden Jr.\u2019s Pennsylvania birthplace is a symbol of the long-term decline of U.S. factory work.",
+          "copyright": "Eric Baradat/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28madeinusa/merlin_175666128_8e051af6-372b-47cc-88f9-7db0905636df-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The shuttered Scranton Lace Company in former Vice President Joseph R. Biden Jr.\u2019s Pennsylvania birthplace is a symbol of the long-term decline of U.S. factory work.",
+          "copyright": "Eric Baradat/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3n36ONg"
+    },
+    {
+      "section": "business",
+      "subsection": "energy-environment",
+      "title": "How Coal-Loving Australia Became the Leader in Rooftop Solar",
+      "abstract": "Embracing solar panels to save money, homeowners have made the country a powerhouse in renewable energy.",
+      "url": "https://www.nytimes.com/2020/09/29/business/energy-environment/australia-rooftop-solar-coal.html",
+      "uri": "nyt://article/4df6f671-b69b-5bc5-9530-f9e24ce2271b",
+      "byline": "By Livia Albeck-Ripka and Ivan Penn",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T14:40:04-04:00",
+      "created_date": "2020-09-29T05:00:39-04:00",
+      "published_date": "2020-09-29T05:00:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Solar Energy",
+        "Alternative and Renewable Energy",
+        "Batteries",
+        "Wildfires",
+        "Politics and Government",
+        "Coal",
+        "Electric Light and Power",
+        "Greenhouse Gas Emissions",
+        "Global Warming"
+      ],
+      "org_facet": [
+        "Liberal Party (Australia)"
+      ],
+      "per_facet": [
+        "Morrison, Scott (1968- )"
+      ],
+      "geo_facet": [
+        "Australia",
+        "Queensland (Australia)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00Australia-solar-1/00Australia-solar-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Solar panels on homes in Northcote, one of Melbourne\u2019s inner suburbs.",
+          "copyright": "Alana Holmberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00Australia-solar-1/00Australia-solar-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Solar panels on homes in Northcote, one of Melbourne\u2019s inner suburbs.",
+          "copyright": "Alana Holmberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00Australia-solar-1/00Australia-solar-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Solar panels on homes in Northcote, one of Melbourne\u2019s inner suburbs.",
+          "copyright": "Alana Holmberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00Australia-solar-1/00Australia-solar-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Solar panels on homes in Northcote, one of Melbourne\u2019s inner suburbs.",
+          "copyright": "Alana Holmberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/business/00Australia-solar-1/00Australia-solar-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 116,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Solar panels on homes in Northcote, one of Melbourne\u2019s inner suburbs.",
+          "copyright": "Alana Holmberg for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3n0QHj1"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Duterte Lashes Out at Facebook After It Takes Down Fake Accounts",
+      "abstract": "The Philippine leader, who harnessed the social network as he rose to power, is now making vague threats to shut it down.",
+      "url": "https://www.nytimes.com/2020/09/29/business/rodrigo-duterte-facebook-philippines.html",
+      "uri": "nyt://article/ef268eba-7752-5407-8663-50e577b76f3e",
+      "byline": "By Jason Gutierrez and Paul Mozur",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T00:34:02-04:00",
+      "created_date": "2020-09-29T02:49:49-04:00",
+      "published_date": "2020-09-29T02:49:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Rumors and Misinformation"
+      ],
+      "org_facet": [
+        "Facebook Inc"
+      ],
+      "per_facet": [
+        "Duterte, Rodrigo"
+      ],
+      "geo_facet": [
+        "Philippines"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29philippines-facebook-1/merlin_177760590_3ef5afcf-319c-4dbf-a09b-cc037c253c35-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI allow you to operate here,\u201d President Rodrigo Duterte of the Philippines said of Facebook on Monday. The company recently took down fake accounts that were promoting his policies, among other activity.",
+          "copyright": "Robinson Ninal Jr./Malacanang Presidential Photographers Division, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29philippines-facebook-1/29philippines-facebook-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI allow you to operate here,\u201d President Rodrigo Duterte of the Philippines said of Facebook on Monday. The company recently took down fake accounts that were promoting his policies, among other activity.",
+          "copyright": "Robinson Ninal Jr./Malacanang Presidential Photographers Division, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29philippines-facebook-1/29philippines-facebook-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI allow you to operate here,\u201d President Rodrigo Duterte of the Philippines said of Facebook on Monday. The company recently took down fake accounts that were promoting his policies, among other activity.",
+          "copyright": "Robinson Ninal Jr./Malacanang Presidential Photographers Division, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29philippines-facebook-1/merlin_177760590_3ef5afcf-319c-4dbf-a09b-cc037c253c35-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI allow you to operate here,\u201d President Rodrigo Duterte of the Philippines said of Facebook on Monday. The company recently took down fake accounts that were promoting his policies, among other activity.",
+          "copyright": "Robinson Ninal Jr./Malacanang Presidential Photographers Division, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29philippines-facebook-1/merlin_177760590_3ef5afcf-319c-4dbf-a09b-cc037c253c35-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI allow you to operate here,\u201d President Rodrigo Duterte of the Philippines said of Facebook on Monday. The company recently took down fake accounts that were promoting his policies, among other activity.",
+          "copyright": "Robinson Ninal Jr./Malacanang Presidential Photographers Division, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cEL0CE"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Trump Paid $750 in Federal Income Taxes in 2017. Here\u2019s the Math.",
+      "abstract": "Figures drawn from President Trump\u2019s tax-return data show how that number was calculated.",
+      "url": "https://www.nytimes.com/2020/09/29/us/trump-750-taxes.html",
+      "uri": "nyt://article/c80372cc-1339-5088-85aa-a63ad9bb8ba1",
+      "byline": "By Russ Buettner, Mike McIntire, Susanne Craig and Keith Collins",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T02:07:39-04:00",
+      "created_date": "2020-09-29T20:17:08-04:00",
+      "published_date": "2020-09-29T20:17:08-04:00",
+      "material_type_facet": "",
+      "kicker": "The president\u2019s taxes",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Income Tax",
+        "Tax Credits, Deductions and Exemptions",
+        "Alternative Minimum Tax",
+        "Federal Taxes (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/trump750-promo/trump750-promo-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1331,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/trump750-promo/trump750-promo-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/trump750-promo/trump750-promo-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/trump750-promo/trump750-promo-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/trump750-promo/trump750-promo-articleInline.png",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34cs6z8"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Lillian Brown, Makeup Artist to Nine Presidents, Dies at 106",
+      "abstract": "She did more than powder noses; she advised on diction and apparel and helped commanders in chief put their best selves forward for television.",
+      "url": "https://www.nytimes.com/2020/09/29/us/lillian-brown-dead.html",
+      "uri": "nyt://article/d414e889-b436-5e63-976e-eef636afaf9e",
+      "byline": "By Katharine Q. Seelye",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T01:01:22-04:00",
+      "created_date": "2020-09-29T17:25:27-04:00",
+      "published_date": "2020-09-29T17:25:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Presidents and Presidency (US)",
+        "Deaths (Obituaries)",
+        "News and News Media",
+        "Cosmetics and Toiletries"
+      ],
+      "org_facet": [
+        "CBS News"
+      ],
+      "per_facet": [
+        "Brown, Lillian (1914-2020)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/obituaries/Brown-1/merlin_177751992_aa715e84-d9a0-4bf2-afaa-4044979b85ad-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lillian Brown in 1977 preparing President Jimmy Carter for a television appearance. She was not a cosmetologist, but she understood presentation.",
+          "copyright": "White House photo/via the Brown family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/obituaries/Brown-1/merlin_177751992_aa715e84-d9a0-4bf2-afaa-4044979b85ad-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lillian Brown in 1977 preparing President Jimmy Carter for a television appearance. She was not a cosmetologist, but she understood presentation.",
+          "copyright": "White House photo/via the Brown family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/obituaries/Brown-1/merlin_177751992_aa715e84-d9a0-4bf2-afaa-4044979b85ad-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lillian Brown in 1977 preparing President Jimmy Carter for a television appearance. She was not a cosmetologist, but she understood presentation.",
+          "copyright": "White House photo/via the Brown family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/obituaries/Brown-1/Brown-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lillian Brown in 1977 preparing President Jimmy Carter for a television appearance. She was not a cosmetologist, but she understood presentation.",
+          "copyright": "White House photo/via the Brown family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/obituaries/Brown-1/merlin_177751992_aa715e84-d9a0-4bf2-afaa-4044979b85ad-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lillian Brown in 1977 preparing President Jimmy Carter for a television appearance. She was not a cosmetologist, but she understood presentation.",
+          "copyright": "White House photo/via the Brown family"
+        }
+      ],
+      "short_url": "https://nyti.ms/3icsdzB"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "How Do You Feel About Returning to the Office?",
+      "abstract": "We would like to hear how employees and employers are handling a return to their offices, even as others continue working from home.",
+      "url": "https://www.nytimes.com/2020/09/29/business/return-to-office.html",
+      "uri": "nyt://article/1ca562a0-8c4c-5750-b029-73fc2fed02a9",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T17:01:49-04:00",
+      "created_date": "2020-09-29T14:57:49-04:00",
+      "published_date": "2020-09-29T14:57:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Workplace Environment",
+        "Telecommuting",
+        "Quarantines",
+        "Coronavirus (2019-nCoV)",
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1198,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-articleInline.jpg",
+          "format": "Normal",
+          "height": 111,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/347m82t"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "How It Feels When Software Watches You Take Tests",
+      "abstract": "Students say that monitoring programs like Proctorio and ExamSoft discourage them in the moments they\u2019re trying to prove themselves.",
+      "url": "https://www.nytimes.com/2020/09/29/style/testing-schools-proctorio.html",
+      "uri": "nyt://article/fe99c9c7-df83-534c-be89-c4e9655498dc",
+      "byline": "By Anushka Patil and Jonah Engel Bromwich",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T14:07:50-04:00",
+      "created_date": "2020-09-29T13:58:03-04:00",
+      "published_date": "2020-09-29T13:58:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Colleges and Universities",
+        "Computers and the Internet",
+        "Education (K-12)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "American Assn of People with Disabilities",
+        "ProctorU Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/style/30proctorio1/oakImage-1601396616598-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sabrina Navarro, a junior at California State University, Fullerton, over Zoom.",
+          "copyright": "Amr Alfiky/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/style/30proctorio1/30proctorio1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sabrina Navarro, a junior at California State University, Fullerton, over Zoom.",
+          "copyright": "Amr Alfiky/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/style/30proctorio1/30proctorio1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sabrina Navarro, a junior at California State University, Fullerton, over Zoom.",
+          "copyright": "Amr Alfiky/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/style/30proctorio1/oakImage-1601396616598-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sabrina Navarro, a junior at California State University, Fullerton, over Zoom.",
+          "copyright": "Amr Alfiky/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/style/30proctorio1/oakImage-1601396616598-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sabrina Navarro, a junior at California State University, Fullerton, over Zoom.",
+          "copyright": "Amr Alfiky/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34ans4B"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "\u2018Testing Hell\u2019: Gift of Devices to Nursing Homes Brings New Problems",
+      "abstract": "The federal government sent free rapid-test machines to 14,000 facilities. But they have come with unexpected costs, cumbersome reporting rules and questions about accuracy.",
+      "url": "https://www.nytimes.com/2020/09/29/health/covid-nursing-homes-testing.html",
+      "uri": "nyt://article/20b38007-a015-5fba-bed2-97241d5c8761",
+      "byline": "By Andrew Jacobs",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T00:13:32-04:00",
+      "created_date": "2020-09-29T11:39:48-04:00",
+      "published_date": "2020-09-29T11:39:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tests (Medical)",
+        "Nursing Homes",
+        "Elderly",
+        "Coronavirus (2019-nCoV)",
+        "Medical Devices",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Centers for Medicare and Medicaid Services"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/merlin_177483336_98d4f666-a6ae-4146-8f1d-166bff497c07-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/00VIRUS-NURSINGHOMES1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/00VIRUS-NURSINGHOMES1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/00VIRUS-NURSINGHOMES1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/science/00VIRUS-NURSINGHOMES1/00VIRUS-NURSINGHOMES1-articleInline.jpg",
+          "format": "Normal",
+          "height": 122,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rapid antigen testing among the staff at the\u00a0Westminster-Canterbury senior living community in Virginia Beach, Va.",
+          "copyright": "Julia Rendleman for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ib7jkt"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Slack Says It Fixed Slowdown That Sidelined Some Workers",
+      "abstract": "The company said normal service had been restored after some users reported problems sending messages and connecting for about two hours Tuesday morning.",
+      "url": "https://www.nytimes.com/2020/09/29/technology/slack-down-outage.html",
+      "uri": "nyt://article/aa14d66f-d160-5ffd-b696-8f8a051e547f",
+      "byline": "By Maria Cramer",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T11:50:57-04:00",
+      "created_date": "2020-09-29T10:13:06-04:00",
+      "published_date": "2020-09-29T10:13:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Instant Messaging"
+      ],
+      "org_facet": [
+        "Slack Technologies Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29xp-slack/29xp-slack-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Slack logo is seen outside the New York Stock Exchange last year.",
+          "copyright": "Brittainy Newman/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29xp-slack/29xp-slack-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Slack logo is seen outside the New York Stock Exchange last year.",
+          "copyright": "Brittainy Newman/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29xp-slack/29xp-slack-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Slack logo is seen outside the New York Stock Exchange last year.",
+          "copyright": "Brittainy Newman/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29xp-slack/29xp-slack-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Slack logo is seen outside the New York Stock Exchange last year.",
+          "copyright": "Brittainy Newman/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29xp-slack/29xp-slack-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Slack logo is seen outside the New York Stock Exchange last year.",
+          "copyright": "Brittainy Newman/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G9yijt"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Recent Commercial Real Estate Transactions",
+      "abstract": "Recent commercial real estate transactions in New York.",
+      "url": "https://www.nytimes.com/2020/09/29/business/new-york-commercial-real-estate.html",
+      "uri": "nyt://article/73f745ee-670b-588f-a748-433836ed50a1",
+      "byline": "By Miles McKinley and Sophia June",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T00:35:24-04:00",
+      "created_date": "2020-09-29T09:00:07-04:00",
+      "published_date": "2020-09-29T09:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Real Estate (Commercial)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Bay Ridge (Brooklyn, NY)",
+        "Upper West Side (Manhattan, NY)",
+        "Boerum Hill (Brooklyn, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30-TRANS-02-PRINT/29trans02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1929,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This building on the Upper West Side last changed hands 40 years ago.",
+          "copyright": "NYM Group at Marcus & Millichap"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30-TRANS-02-PRINT/29trans02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This building on the Upper West Side last changed hands 40 years ago.",
+          "copyright": "NYM Group at Marcus & Millichap"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30-TRANS-02-PRINT/29trans02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This building on the Upper West Side last changed hands 40 years ago.",
+          "copyright": "NYM Group at Marcus & Millichap"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30-TRANS-02-PRINT/29trans02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This building on the Upper West Side last changed hands 40 years ago.",
+          "copyright": "NYM Group at Marcus & Millichap"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30-TRANS-02-PRINT/29trans02-articleInline.jpg",
+          "format": "Normal",
+          "height": 179,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This building on the Upper West Side last changed hands 40 years ago.",
+          "copyright": "NYM Group at Marcus & Millichap"
+        }
+      ],
+      "short_url": "https://nyti.ms/33cYDpF"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Nancy Pelosi and Steven Mnuchin seek to end an impasse over another round of aid.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/09/29/business/nancy-pelosi-and-steven-mnuchin-seek-to-end-an-impasse-over-another-round-of-aid.html",
+      "uri": "nyt://article/54f6fc39-3ced-5665-8685-67beca6207aa",
+      "byline": "By Emily Cochrane",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T16:51:53-04:00",
+      "created_date": "2020-09-29T07:57:55-04:00",
+      "published_date": "2020-09-29T07:57:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,\u201d Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,\u201d Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,\u201d Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,\u201d Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,\u201d Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Gmg9hY"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "The former head of Audi is on trial in Volkswagen\u2019s emissions-cheating scandal.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/09/29/business/the-former-head-of-audi-is-on-trial-in-volkswagens-emissions-cheating-scandal.html",
+      "uri": "nyt://article/0cbbf709-a7cb-590a-bb65-c88931e6b9e3",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T16:51:38-04:00",
+      "created_date": "2020-09-29T07:32:20-04:00",
+      "published_date": "2020-09-29T07:32:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/merlin_135522486_abb33f89-2ef5-4bc7-9a8d-b7be2efcdb7a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/merlin_135522486_abb33f89-2ef5-4bc7-9a8d-b7be2efcdb7a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cPdIAY"
+    },
+    {
+      "section": "business",
+      "subsection": "dealbook",
+      "title": "Taking a Stand Against Social Stances",
+      "abstract": "Many companies are embracing social causes as part of their mission. The cryptocurrency exchange Coinbase is going the other way.",
+      "url": "https://www.nytimes.com/2020/09/29/business/dealbook/coinbase-social-activism.html",
+      "uri": "nyt://article/2e2b5afa-eae5-508d-bc98-6db3464804fb",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T16:22:29-04:00",
+      "created_date": "2020-09-29T06:59:22-04:00",
+      "published_date": "2020-09-29T06:59:22-04:00",
+      "material_type_facet": "",
+      "kicker": "DealBook Newsletter",
+      "des_facet": [
+        "Corporate Social Responsibility"
+      ],
+      "org_facet": [
+        "Coinbase Inc"
+      ],
+      "per_facet": [
+        "Ubben, Jeffrey W",
+        "Armstrong, Brian (1983- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29db-newsletter-coinbase/merlin_143423421_d15af87c-4dc1-4427-9efc-f5437e8aab8e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1407,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brian Armstrong, Coinbase\u2019s co-founder and C.E.O., wants employees focused only on work at work.&nbsp;",
+          "copyright": "Steve Jennings/Getty Images for Techcrunch"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29db-newsletter-coinbase/merlin_143423421_d15af87c-4dc1-4427-9efc-f5437e8aab8e-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brian Armstrong, Coinbase\u2019s co-founder and C.E.O., wants employees focused only on work at work.&nbsp;",
+          "copyright": "Steve Jennings/Getty Images for Techcrunch"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29db-newsletter-coinbase/merlin_143423421_d15af87c-4dc1-4427-9efc-f5437e8aab8e-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brian Armstrong, Coinbase\u2019s co-founder and C.E.O., wants employees focused only on work at work.&nbsp;",
+          "copyright": "Steve Jennings/Getty Images for Techcrunch"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29db-newsletter-coinbase/merlin_143423421_d15af87c-4dc1-4427-9efc-f5437e8aab8e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brian Armstrong, Coinbase\u2019s co-founder and C.E.O., wants employees focused only on work at work.&nbsp;",
+          "copyright": "Steve Jennings/Getty Images for Techcrunch"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29db-newsletter-coinbase/merlin_143423421_d15af87c-4dc1-4427-9efc-f5437e8aab8e-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brian Armstrong, Coinbase\u2019s co-founder and C.E.O., wants employees focused only on work at work.&nbsp;",
+          "copyright": "Steve Jennings/Getty Images for Techcrunch"
+        }
+      ],
+      "short_url": "https://nyti.ms/30hdFbP"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "No More \u2018Ladies and Gentlemen\u2019 on Japan Airlines",
+      "abstract": "The carrier pledged to use inclusive language in a country where gender roles are entrenched.",
+      "url": "https://www.nytimes.com/2020/09/29/world/asia/japan-airlines-ladies-gentlemen.html",
+      "uri": "nyt://article/bf8b6fa7-90a0-5379-9e45-36ad577034a0",
+      "byline": "By Tiffany May and Hisako Ueno",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T00:41:06-04:00",
+      "created_date": "2020-09-29T05:57:19-04:00",
+      "published_date": "2020-09-29T05:57:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Gender",
+        "Women and Girls",
+        "Airlines and Airplanes"
+      ],
+      "org_facet": [
+        "Japan Airlines"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Japan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29japan-gender-1/merlin_177716769_1b304664-f34f-4b44-826a-b32a91cbe3d1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1362,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Japan Airlines said its flight announcements in English would adopt gender-neutral language from Oct. 1.",
+          "copyright": "Kazuhiro Nogi/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29japan-gender-1/29japan-gender-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Japan Airlines said its flight announcements in English would adopt gender-neutral language from Oct. 1.",
+          "copyright": "Kazuhiro Nogi/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29japan-gender-1/29japan-gender-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Japan Airlines said its flight announcements in English would adopt gender-neutral language from Oct. 1.",
+          "copyright": "Kazuhiro Nogi/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29japan-gender-1/29japan-gender-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Japan Airlines said its flight announcements in English would adopt gender-neutral language from Oct. 1.",
+          "copyright": "Kazuhiro Nogi/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29japan-gender-1/merlin_177716769_1b304664-f34f-4b44-826a-b32a91cbe3d1-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Japan Airlines said its flight announcements in English would adopt gender-neutral language from Oct. 1.",
+          "copyright": "Kazuhiro Nogi/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/347cjlg"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Mr. DeMille, I\u2019m Ready for Your Booze Stash",
+      "abstract": "Dusty hunters seek valuable old bottles of whiskey and other spirits. This one found the collection of a lifetime.",
+      "url": "https://www.nytimes.com/2020/09/29/style/cecil-b-demille-liquor-dusty-hunters-whiskey.html",
+      "uri": "nyt://article/f50fbe4a-520f-5bac-bfa9-204219c1c42e",
+      "byline": "By Aaron Goldfarb",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T20:49:09-04:00",
+      "created_date": "2020-09-29T05:00:26-04:00",
+      "published_date": "2020-09-29T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Collectors and Collections",
+        "Alcoholic Beverages",
+        "Bourbon (Whiskey)",
+        "Liquor",
+        "Hobbies"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Demille, Cecil B"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/27vintageliquor11/27vintageliquor11-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1533,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Captain\u2019s table:The director and producer Cecil B. DeMille, sitting at his desk on a yacht, circa 1930.",
+          "copyright": "FPG/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/27vintageliquor11/27vintageliquor11-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Captain\u2019s table:The director and producer Cecil B. DeMille, sitting at his desk on a yacht, circa 1930.",
+          "copyright": "FPG/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/27vintageliquor11/27vintageliquor11-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Captain\u2019s table:The director and producer Cecil B. DeMille, sitting at his desk on a yacht, circa 1930.",
+          "copyright": "FPG/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/27vintageliquor11/27vintageliquor11-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Captain\u2019s table:The director and producer Cecil B. DeMille, sitting at his desk on a yacht, circa 1930.",
+          "copyright": "FPG/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/27vintageliquor11/27vintageliquor11-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 142,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Captain\u2019s table:The director and producer Cecil B. DeMille, sitting at his desk on a yacht, circa 1930.",
+          "copyright": "FPG/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3n0axuG"
+    },
+    {
+      "section": "education",
+      "subsection": "",
+      "title": "Using Technology to Tailor Lessons to Each Student",
+      "abstract": "Computer algorithms and machine learning are helping students succeed in math. Some experts see such efforts as a crucial next step in education.",
+      "url": "https://www.nytimes.com/2020/09/29/education/schools-technology-future-pandemic.html",
+      "uri": "nyt://article/12ce8942-aacd-578a-ad84-0b59c5d3fe7d",
+      "byline": "By Janet Morrissey",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T05:00:20-04:00",
+      "created_date": "2020-09-29T05:00:20-04:00",
+      "published_date": "2020-09-29T05:00:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "E-Learning",
+        "Education (K-12)",
+        "Mathematics"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29sp-ourfuture-school1/29sp-ourfuture-school1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1744,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seventh grader Nina Mones, a student at Phoenix International Academy, initially struggled with math but new initiatives are helping her flourish. ",
+          "copyright": "Caitlin O'Hara for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29sp-ourfuture-school1/29sp-ourfuture-school1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seventh grader Nina Mones, a student at Phoenix International Academy, initially struggled with math but new initiatives are helping her flourish. ",
+          "copyright": "Caitlin O'Hara for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29sp-ourfuture-school1/29sp-ourfuture-school1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seventh grader Nina Mones, a student at Phoenix International Academy, initially struggled with math but new initiatives are helping her flourish. ",
+          "copyright": "Caitlin O'Hara for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29sp-ourfuture-school1/29sp-ourfuture-school1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seventh grader Nina Mones, a student at Phoenix International Academy, initially struggled with math but new initiatives are helping her flourish. ",
+          "copyright": "Caitlin O'Hara for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29sp-ourfuture-school1/29sp-ourfuture-school1-articleInline.jpg",
+          "format": "Normal",
+          "height": 223,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seventh grader Nina Mones, a student at Phoenix International Academy, initially struggled with math but new initiatives are helping her flourish. ",
+          "copyright": "Caitlin O'Hara for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "Steven Mnuchin\u2019s Deal Staved Off Catastrophe. Can He Make Another One?",
+      "abstract": "Even many Trump critics credit his Treasury secretary with rescuing the economy from the pandemic. Will the White House and Congress keep him from doing it again?",
+      "url": "https://www.nytimes.com/2020/09/29/magazine/mnuchin-cares-act-stimulus.html",
+      "uri": "nyt://article/5d0e5c63-c79d-5775-9532-4b5dda8774be",
+      "byline": "By Jason Zengerle",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T10:38:58-04:00",
+      "created_date": "2020-09-29T05:00:09-04:00",
+      "published_date": "2020-09-29T05:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "Feature",
+      "des_facet": [
+        "United States Economy",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Mnuchin, Steven T",
+        "Powell, Jerome H"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-mnuchin/04mag-mnuchin-superJumbo-v5.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-mnuchin/04mag-mnuchin-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-mnuchin/04mag-mnuchin-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-mnuchin/04mag-mnuchin-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-mnuchin/04mag-mnuchin-articleInline-v5.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/346Evoq"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "43 Student Journalists Quit N.Y.U. Paper After Dispute With Adviser",
+      "abstract": "A post signed by nearly all of the Washington Square News staff accused its new adviser, a longtime journalism professor, of being \u201crude and disrespectful.\u201d",
+      "url": "https://www.nytimes.com/2020/09/28/business/media/nyu-washington-square-news-adviser.html",
+      "uri": "nyt://article/130b51c4-49f8-53a3-826b-698f9f1a716a",
+      "byline": "By Katie Robertson",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T00:35:46-04:00",
+      "created_date": "2020-09-28T20:30:08-04:00",
+      "published_date": "2020-09-28T20:30:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Journalism Schools",
+        "News and News Media",
+        "Newspapers",
+        "Colleges and Universities"
+      ],
+      "org_facet": [
+        "Washington Square News",
+        "New York University"
+      ],
+      "per_facet": [
+        "Griffin, Kenna",
+        "Hofstetter, Abby"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28nyu-newspaper1/merlin_176172714_9c3a5112-a2d5-4806-8ab5-25a81fa1d2a7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After a mass resignation, only four staff members remained at Washington Square News, a student-run publication established in 1973.",
+          "copyright": "Spencer Platt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28nyu-newspaper1/28nyu-newspaper1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After a mass resignation, only four staff members remained at Washington Square News, a student-run publication established in 1973.",
+          "copyright": "Spencer Platt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28nyu-newspaper1/28nyu-newspaper1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After a mass resignation, only four staff members remained at Washington Square News, a student-run publication established in 1973.",
+          "copyright": "Spencer Platt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28nyu-newspaper1/28nyu-newspaper1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After a mass resignation, only four staff members remained at Washington Square News, a student-run publication established in 1973.",
+          "copyright": "Spencer Platt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28nyu-newspaper1/merlin_176172714_9c3a5112-a2d5-4806-8ab5-25a81fa1d2a7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After a mass resignation, only four staff members remained at Washington Square News, a student-run publication established in 1973.",
+          "copyright": "Spencer Platt/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GfIuGQ"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Bipartisan House Bill Aims to Fix Boeing 737 Max Safety Lapses",
+      "abstract": "The measure seeks to strengthen the Federal Aviation Administration and impose tougher penalties on corporate executives who undermine regulators.",
+      "url": "https://www.nytimes.com/2020/09/28/business/faa-boeing-737-max-house.html",
+      "uri": "nyt://article/1fed26f5-bb65-5f16-aac3-9c20c89c5eed",
+      "byline": "By Niraj Chokshi",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T12:08:39-04:00",
+      "created_date": "2020-09-28T19:42:10-04:00",
+      "published_date": "2020-09-28T19:42:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Boeing 737 Max Groundings and Safety Concerns (2019)",
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Airlines and Airplanes",
+        "Aviation Accidents, Safety and Disasters"
+      ],
+      "org_facet": [
+        "Boeing Company",
+        "Federal Aviation Administration",
+        "House Committee on Transportation"
+      ],
+      "per_facet": [
+        "DeFazio, Peter A",
+        "Larsen, Rick",
+        "Graves, Sam"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/merlin_174539175_d2670038-5c1d-43e2-ad9f-24d335ee11ec-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1395,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/28FAA-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/28FAA-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/28FAA-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/merlin_174539175_d2670038-5c1d-43e2-ad9f-24d335ee11ec-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3i9LFgE"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Apple and Epic Games Spar Over Returning Fortnite to the App Store",
+      "abstract": "The two companies argued in federal court over Apple\u2019s power over apps, as their fight heads to trial next year.",
+      "url": "https://www.nytimes.com/2020/09/28/technology/apple-epic-app-court.html",
+      "uri": "nyt://article/5d891f61-fbd1-5a26-bceb-64149d46244d",
+      "byline": "By Erin Griffith",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T09:49:19-04:00",
+      "created_date": "2020-09-28T18:03:03-04:00",
+      "published_date": "2020-09-28T18:03:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mobile Applications",
+        "Computer and Video Games",
+        "Computers and the Internet",
+        "Mobile Commerce and Payments",
+        "Antitrust Laws and Competition Issues",
+        "Suits and Litigation (Civil)",
+        "Fortnite (Video Game)"
+      ],
+      "org_facet": [
+        "Apple Inc",
+        "Epic Games"
+      ],
+      "per_facet": [
+        "Sweeney, Tim (1970- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28apple/merlin_176133924_ddaa9685-b3dd-4052-8000-8cdb0994fff6-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1414,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Apple booted Fortnite, a popular video game made by Epic Games, out of its App Store last month.",
+          "copyright": "CJ Gunther/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28apple/28apple-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Apple booted Fortnite, a popular video game made by Epic Games, out of its App Store last month.",
+          "copyright": "CJ Gunther/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28apple/28apple-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Apple booted Fortnite, a popular video game made by Epic Games, out of its App Store last month.",
+          "copyright": "CJ Gunther/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28apple/merlin_176133924_ddaa9685-b3dd-4052-8000-8cdb0994fff6-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Apple booted Fortnite, a popular video game made by Epic Games, out of its App Store last month.",
+          "copyright": "CJ Gunther/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28apple/merlin_176133924_ddaa9685-b3dd-4052-8000-8cdb0994fff6-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Apple booted Fortnite, a popular video game made by Epic Games, out of its App Store last month.",
+          "copyright": "CJ Gunther/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/338sNKu"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "How \u2018Save the Children\u2019 Is Keeping QAnon Alive",
+      "abstract": "Appropriating anti-trafficking narratives is helping the pro-Trump conspiracy theory fuel its community\u2019s hunger for vengeance.",
+      "url": "https://www.nytimes.com/interactive/2020/09/28/business/qanon-facebook-save-the-children.html",
+      "uri": "nyt://interactive/f0ae4916-1ef6-523f-aca5-eed14346d3b3",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-28T17:28:14-04:00",
+      "created_date": "2020-09-28T15:13:39-04:00",
+      "published_date": "2020-09-28T15:13:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28distortions-qanon/28distortions-qanon-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1150,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A \u201cSave the Children Rally\u201d in Keene, N.H.",
+          "copyright": "Joseph Prezioso/AFP \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28distortions-qanon/28distortions-qanon-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A \u201cSave the Children Rally\u201d in Keene, N.H.",
+          "copyright": "Joseph Prezioso/AFP \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28distortions-qanon/28distortions-qanon-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A \u201cSave the Children Rally\u201d in Keene, N.H.",
+          "copyright": "Joseph Prezioso/AFP \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28distortions-qanon/28distortions-qanon-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A \u201cSave the Children Rally\u201d in Keene, N.H.",
+          "copyright": "Joseph Prezioso/AFP \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28distortions-qanon/28distortions-qanon-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A \u201cSave the Children Rally\u201d in Keene, N.H.",
+          "copyright": "Joseph Prezioso/AFP \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Gf5buL"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "\u2018Fox & Friends,\u2019 With Donald Trump Jr., Tries to Dismiss Times Tax Article",
+      "abstract": "The Fox News morning show, a reliable forum for the president and his defenders, served up criticism of the report and attacks on Joseph R. Biden Jr.",
+      "url": "https://www.nytimes.com/2020/09/28/business/media/fox-news-trump-taxes.html",
+      "uri": "nyt://article/ed406fa0-8f9e-5c84-9725-bb3425abae15",
+      "byline": "By Tiffany Hsu",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T10:45:30-04:00",
+      "created_date": "2020-09-28T13:05:28-04:00",
+      "published_date": "2020-09-28T13:05:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "News and News Media",
+        "Fox & Friends (TV Program)",
+        "United States Politics and Government",
+        "Trump Tax Returns"
+      ],
+      "org_facet": [
+        "New York Times",
+        "Fox News Channel"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Trump, Donald J Jr",
+        "McEnany, Kayleigh"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28foxnews-taxes2/28foxnews-taxes2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1147,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aggressive defender of his father, Donald Trump Jr. was given a forum on \u201cFox &amp; Friends\u201d the morning after the publication of a New York Times report on the president\u2019s finances.",
+          "copyright": "Fox News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28foxnews-taxes2/28foxnews-taxes2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aggressive defender of his father, Donald Trump Jr. was given a forum on \u201cFox &amp; Friends\u201d the morning after the publication of a New York Times report on the president\u2019s finances.",
+          "copyright": "Fox News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28foxnews-taxes2/28foxnews-taxes2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aggressive defender of his father, Donald Trump Jr. was given a forum on \u201cFox &amp; Friends\u201d the morning after the publication of a New York Times report on the president\u2019s finances.",
+          "copyright": "Fox News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28foxnews-taxes2/28foxnews-taxes2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aggressive defender of his father, Donald Trump Jr. was given a forum on \u201cFox &amp; Friends\u201d the morning after the publication of a New York Times report on the president\u2019s finances.",
+          "copyright": "Fox News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28foxnews-taxes2/28foxnews-taxes2-articleInline.jpg",
+          "format": "Normal",
+          "height": 106,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aggressive defender of his father, Donald Trump Jr. was given a forum on \u201cFox &amp; Friends\u201d the morning after the publication of a New York Times report on the president\u2019s finances.",
+          "copyright": "Fox News"
+        }
+      ],
+      "short_url": "https://nyti.ms/36c2KnK"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Google Demands 30% Cut From App Developers in Its Play Store",
+      "abstract": "Some companies like Netflix and Spotify had avoided making the payment when people paid for something inside their apps.",
+      "url": "https://www.nytimes.com/2020/09/28/technology/google-play-store-30-percent.html",
+      "uri": "nyt://article/c84e5c29-85cb-55f1-9210-437120e76135",
+      "byline": "By Daisuke Wakabayashi",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T12:01:49-04:00",
+      "created_date": "2020-09-28T13:03:44-04:00",
+      "published_date": "2020-09-28T13:03:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mobile Applications",
+        "Computers and the Internet",
+        "Android (Operating System)",
+        "Mobile Commerce and Payments"
+      ],
+      "org_facet": [
+        "Google Inc",
+        "Google Play",
+        "Apple Inc",
+        "Epic Games"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28google/28google-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Google has had a policy of taking a 30 percent cut of payments made within apps offered by the Google Play store, but some developers including Netflix and Spotify have bypassed the requirement.",
+          "copyright": "Olly Curtis/Future, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28google/28google-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Google has had a policy of taking a 30 percent cut of payments made within apps offered by the Google Play store, but some developers including Netflix and Spotify have bypassed the requirement.",
+          "copyright": "Olly Curtis/Future, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28google/28google-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Google has had a policy of taking a 30 percent cut of payments made within apps offered by the Google Play store, but some developers including Netflix and Spotify have bypassed the requirement.",
+          "copyright": "Olly Curtis/Future, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28google/28google-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Google has had a policy of taking a 30 percent cut of payments made within apps offered by the Google Play store, but some developers including Netflix and Spotify have bypassed the requirement.",
+          "copyright": "Olly Curtis/Future, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28google/28google-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Google has had a policy of taking a 30 percent cut of payments made within apps offered by the Google Play store, but some developers including Netflix and Spotify have bypassed the requirement.",
+          "copyright": "Olly Curtis/Future, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mZyySU"
+    },
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "Even as Americans Grew Richer, Inequality Persisted",
+      "abstract": "A Federal Reserve survey of family finances shows that inequality was high last year. It\u2019s likely to worsen because of the pandemic.",
+      "url": "https://www.nytimes.com/2020/09/28/business/economy/coronavirus-pandemic-income-inequality.html",
+      "uri": "nyt://article/9909a5ab-856e-5deb-8598-7fee06954b66",
+      "byline": "By Jeanna Smialek",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T11:42:27-04:00",
+      "created_date": "2020-09-28T12:01:32-04:00",
+      "published_date": "2020-09-28T12:01:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "United States Economy",
+        "Income",
+        "Income Inequality",
+        "Stocks and Bonds",
+        "Wages and Salaries",
+        "Unemployment",
+        "Labor and Jobs",
+        "Recession and Depression",
+        "Black People",
+        "Hispanic-Americans"
+      ],
+      "org_facet": [
+        "Federal Reserve System"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28DC-FEDSURVEY/merlin_174916722_f3ea9b32-4e32-457e-af09-7c458801019b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People waiting for help with unemployment claims in July in Tulsa, Okla. Incomes increased for most Americans before the pandemic, but recent job losses have most likely erased many of those gains.",
+          "copyright": "Joseph Rushmore for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28DC-FEDSURVEY/28DC-FEDSURVEY-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People waiting for help with unemployment claims in July in Tulsa, Okla. Incomes increased for most Americans before the pandemic, but recent job losses have most likely erased many of those gains.",
+          "copyright": "Joseph Rushmore for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28DC-FEDSURVEY/28DC-FEDSURVEY-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People waiting for help with unemployment claims in July in Tulsa, Okla. Incomes increased for most Americans before the pandemic, but recent job losses have most likely erased many of those gains.",
+          "copyright": "Joseph Rushmore for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28DC-FEDSURVEY/28DC-FEDSURVEY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People waiting for help with unemployment claims in July in Tulsa, Okla. Incomes increased for most Americans before the pandemic, but recent job losses have most likely erased many of those gains.",
+          "copyright": "Joseph Rushmore for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28DC-FEDSURVEY/merlin_174916722_f3ea9b32-4e32-457e-af09-7c458801019b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People waiting for help with unemployment claims in July in Tulsa, Okla. Incomes increased for most Americans before the pandemic, but recent job losses have most likely erased many of those gains.",
+          "copyright": "Joseph Rushmore for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/30hlIFF"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "How the Biden-Trump Debate Will Play on TV (Don\u2019t Expect Fact-Checks)",
+      "abstract": "\u201cMy job is to be as invisible as possible,\u201d said Chris Wallace of Fox News, the moderator of the opening matchup on Tuesday.",
+      "url": "https://www.nytimes.com/2020/09/28/business/media/debate-trump-biden-tv-preview.html",
+      "uri": "nyt://article/3578854e-5d6f-5e14-b607-60c94da623c0",
+      "byline": "By Michael M. Grynbaum",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T23:42:54-04:00",
+      "created_date": "2020-09-28T08:32:34-04:00",
+      "published_date": "2020-09-28T08:32:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Debates (Political)",
+        "News and News Media",
+        "Television",
+        "Fox News Sunday (TV Program)"
+      ],
+      "org_facet": [
+        "Commission on Presidential Debates"
+      ],
+      "per_facet": [
+        "Wallace, Chris (1947- )",
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28debate-media/merlin_173177889_5b8d46e6-e726-41bc-9a6b-2a0fe479c2cd-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace, news anchor of Fox News Sunday, in June.",
+          "copyright": "Andrew Mangum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28debate-media/28debate-media-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace, news anchor of Fox News Sunday, in June.",
+          "copyright": "Andrew Mangum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28debate-media/28debate-media-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace, news anchor of Fox News Sunday, in June.",
+          "copyright": "Andrew Mangum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28debate-media/28debate-media-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace, news anchor of Fox News Sunday, in June.",
+          "copyright": "Andrew Mangum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28debate-media/merlin_173177889_5b8d46e6-e726-41bc-9a6b-2a0fe479c2cd-articleInline.jpg",
+          "format": "Normal",
+          "height": 238,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Wallace, news anchor of Fox News Sunday, in June.",
+          "copyright": "Andrew Mangum for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G5XF5L"
+    },
+    {
+      "section": "business",
+      "subsection": "dealbook",
+      "title": "How Much Did Trump Win by Losing?",
+      "abstract": "A major investigation into President Trump\u2019s finances shows that his businesses reported huge losses. That may have been part of the plan.",
+      "url": "https://www.nytimes.com/2020/09/28/business/dealbook/trump-taxes-losses.html",
+      "uri": "nyt://article/d2cbb531-c9e4-5a3f-ac7f-a35c8c41cb59",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T13:10:27-04:00",
+      "created_date": "2020-09-28T06:47:16-04:00",
+      "published_date": "2020-09-28T06:47:16-04:00",
+      "material_type_facet": "",
+      "kicker": "DealBook Newsletter",
+      "des_facet": [
+        "Federal Taxes (US)",
+        "Mergers, Acquisitions and Divestitures"
+      ],
+      "org_facet": [
+        "Trump Organization",
+        "Honest Co"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Alba, Jessica",
+        "Barrett, Amy Coney"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28db-newsletter-trump/merlin_177704649_aea157b2-458b-49bc-b8c6-d2f5640e5e5a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28db-newsletter-trump/merlin_177704649_aea157b2-458b-49bc-b8c6-d2f5640e5e5a-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28db-newsletter-trump/merlin_177704649_aea157b2-458b-49bc-b8c6-d2f5640e5e5a-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28db-newsletter-trump/merlin_177704649_aea157b2-458b-49bc-b8c6-d2f5640e5e5a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28db-newsletter-trump/merlin_177704649_aea157b2-458b-49bc-b8c6-d2f5640e5e5a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cEBWOb"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Uber Can Continue Operating in London, Judge Rules",
+      "abstract": "After a battle with transportation regulators, the ride-hailing firm was granted an 18-month license.",
+      "url": "https://www.nytimes.com/2020/09/28/business/uber-london-court.html",
+      "uri": "nyt://article/dba91315-74ab-5ad5-8655-a445a2d27799",
+      "byline": "By Adam Satariano",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T11:58:17-04:00",
+      "created_date": "2020-09-28T05:31:06-04:00",
+      "published_date": "2020-09-28T05:31:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Car Services and Livery Cabs",
+        "Decisions and Verdicts",
+        "Mobile Applications",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "Transport for London",
+        "Uber Technologies Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28uber-london2/merlin_177702570_926cf982-0cee-49e8-96e2-ccc0760b9871-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Uber driver waiting behind a black cab in London. Uber\u2019s growth brought blowback, particularly from the city\u2019s traditional black cabs.",
+          "copyright": "Teresa Eng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28uber-london2/28uber-london2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Uber driver waiting behind a black cab in London. Uber\u2019s growth brought blowback, particularly from the city\u2019s traditional black cabs.",
+          "copyright": "Teresa Eng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28uber-london2/28uber-london2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Uber driver waiting behind a black cab in London. Uber\u2019s growth brought blowback, particularly from the city\u2019s traditional black cabs.",
+          "copyright": "Teresa Eng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28uber-london2/merlin_177702570_926cf982-0cee-49e8-96e2-ccc0760b9871-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Uber driver waiting behind a black cab in London. Uber\u2019s growth brought blowback, particularly from the city\u2019s traditional black cabs.",
+          "copyright": "Teresa Eng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28uber-london2/merlin_177702570_926cf982-0cee-49e8-96e2-ccc0760b9871-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Uber driver waiting behind a black cab in London. Uber\u2019s growth brought blowback, particularly from the city\u2019s traditional black cabs.",
+          "copyright": "Teresa Eng for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GfJPO0"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Some Workers Face Looming Cutoffs in Health Insurance",
+      "abstract": "Coverage is a major expense for employers, especially those in small businesses, as they deal with the pandemic\u2019s economic fallout. Many may face end-of-year renewal deadlines that are harder and harder to afford.",
+      "url": "https://www.nytimes.com/2020/09/28/health/covid-19-health-insurance.html",
+      "uri": "nyt://article/115fe79c-5442-5c12-bb23-fd08c220b317",
+      "byline": "By Reed Abelson",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T16:03:40-04:00",
+      "created_date": "2020-09-28T03:00:09-04:00",
+      "published_date": "2020-09-28T03:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Health Insurance and Managed Care",
+        "Small Business",
+        "Patient Protection and Affordable Care Act (2010)",
+        "Layoffs and Job Reductions",
+        "Federal Aid (US)",
+        "Coronavirus (2019-nCoV)",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/science/00VIRUS-SMALLBIZINSURE-promo/00VIRUS-SMALLBIZINSURE-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Fritz of San Diego was furloughed when the gym he worked at closed. Losing coverage during the pandemic has been like \u201cgoing into this thunderstorm without an umbrella,\u201d he said.",
+          "copyright": "John Francis Peters for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/science/00VIRUS-SMALLBIZINSURE-promo/00VIRUS-SMALLBIZINSURE-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Fritz of San Diego was furloughed when the gym he worked at closed. Losing coverage during the pandemic has been like \u201cgoing into this thunderstorm without an umbrella,\u201d he said.",
+          "copyright": "John Francis Peters for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/science/00VIRUS-SMALLBIZINSURE-promo/00VIRUS-SMALLBIZINSURE-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Fritz of San Diego was furloughed when the gym he worked at closed. Losing coverage during the pandemic has been like \u201cgoing into this thunderstorm without an umbrella,\u201d he said.",
+          "copyright": "John Francis Peters for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/science/00VIRUS-SMALLBIZINSURE-promo/00VIRUS-SMALLBIZINSURE-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Fritz of San Diego was furloughed when the gym he worked at closed. Losing coverage during the pandemic has been like \u201cgoing into this thunderstorm without an umbrella,\u201d he said.",
+          "copyright": "John Francis Peters for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/science/00VIRUS-SMALLBIZINSURE-promo/00VIRUS-SMALLBIZINSURE-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Fritz of San Diego was furloughed when the gym he worked at closed. Losing coverage during the pandemic has been like \u201cgoing into this thunderstorm without an umbrella,\u201d he said.",
+          "copyright": "John Francis Peters for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kUJX4t"
+    }
+  ]
+}
